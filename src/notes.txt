@@ -1,0 +1,16 @@
+Git class 5
+
+What is stashing?
+saving our codes to a temporary area for later use is called stashing!!!
+
+
+Why do we need stashing?
+1. you are working on a new test feature that you don't want yet to be in the commits because you are not sure
+whether it will be working or not!
+
+2. in order to update your local repo in sync with
+ the remote repo, without discarding the changes in working directory
+
+ -------THE PROJECT-----
+ team lead:
+ write down the code to make a beautiful car!!
