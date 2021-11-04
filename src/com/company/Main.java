@@ -6,6 +6,12 @@ public class Main {
 
 
         car newcar=new car();
+        newcar.name="Ferrari";
+        newcar.color="red";
+        newcar.doors=4;
+        newcar.engineCapacity="60000cc";
 
+
+        System.out.println(newcar.color);
     }
 }
